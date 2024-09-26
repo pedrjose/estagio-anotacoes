@@ -3,9 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-pedrlimadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrlimadev@gmail.com
 )](mailto:pedrlimadev@gmail.com)
 
-# Resumos do Estágio
+# Resumos do Estágio :page_with_curl:
 
-Repositório destinado a armazenar os resumos que escrevi sobre os assuntos abordados no meu estágio. Basta escolher o tema que deseja ler na tabela abaixo, e você será direcionado para o respectivo resumo. A maior parte dos resumos está em repositórios no GitHub, mas alguns, como o de *Conventional Commits*, redirecionarão para o meu LinkedIn, onde já havia tratado desse assunto anteriormente e considerei que o resumo ficaria mais dinâmico por lá.
+- Repositório destinado a armazenar os resumos que escrevi sobre os assuntos abordados no meu estágio :ballot_box_with_check:
+- Basta escolher o tema que deseja ler na tabela abaixo, e você será direcionado para o respectivo resumo :heavy_check_mark:
+- A maior parte dos resumos está em repositórios no GitHub, mas alguns, como o de *Conventional Commits*, redirecionarão para o meu LinkedIn, onde já havia tratado desse assunto anteriormente e considerei que o resumo ficaria mais dinâmico por lá :large_orange_diamond:
 
 ![notations git](./notations.gif)
 
