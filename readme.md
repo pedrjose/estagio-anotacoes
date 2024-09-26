@@ -9,7 +9,7 @@
 - Basta escolher o tema que deseja ler na tabela abaixo, e você será direcionado para o respectivo resumo :heavy_check_mark:
 - A maior parte dos resumos está em repositórios no GitHub, mas alguns, como o de *Conventional Commits*, redirecionarão para o meu LinkedIn, onde já havia tratado desse assunto anteriormente e considerei que o resumo ficaria mais dinâmico por lá :large_orange_diamond:
 
-![notations git](./notations.gif)
+![notations git](./materials/notations.gif)
 
 **Espero que esses materiais sejam úteis para você que encontrou esse repositório. Abraço!** :relaxed:
 
