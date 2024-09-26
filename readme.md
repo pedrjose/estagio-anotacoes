@@ -8,5 +8,5 @@ Repositório destinado a armazenar os resumos que escrevi sobre os assuntos abor
 
 | Assunto | Link |
 | ----------- | ----------- |
-| Abrir resumo | [Scrum](https://github.com/pedrjose/estagio-anotacoes/blob/main/scrum.md) |
-| Abrir resumo | [Conventional Commits](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) |
+| Abrir resumo | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/scrum.md) |
+| Conventional Commits | [Abrir resumo](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) |
