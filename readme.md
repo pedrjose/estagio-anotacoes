@@ -11,7 +11,7 @@
 
 ![notations git](./notations.gif)
 
-**Espero que esses materiais sejam úteis para você que encontrou esse repositório. Abraço!**
+**Espero que esses materiais sejam úteis para você que encontrou esse repositório. Abraço!** :relaxed:
 
 | Assunto | Link |
 | ----------- | ----------- |
