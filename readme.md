@@ -4,5 +4,5 @@ Repositório destinado a armazenar os resumos que escrevi sobre os assuntos trab
 
 | Assunto | Link |
 | ----------- | ----------- |
-| Scrum | [Scrum](https://medium.com/@pedrlimadev/scrum-trabalhando-em-um-ambiente-%C3%A1gil-06c15d9010c8) |
+| Scrum | [Scrum](https://github.com/pedrjose/estagio-anotacoes/blob/main/scrum.md) |
 | Conventional Commits | [Conventional Commits](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) |
