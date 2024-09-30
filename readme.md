@@ -19,3 +19,4 @@
 | Conventional Commits | [Abrir resumo](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) |
 | Introdução à blockchain e ao bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-and-bitcoin-introduce.md) | 
 | Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) |
+| Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) |
