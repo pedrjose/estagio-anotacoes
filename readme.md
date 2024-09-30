@@ -20,3 +20,4 @@
 | Introdução à blockchain e ao bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-and-bitcoin-introduce.md) | 
 | Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) |
 | Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) |
+| Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-cotidiano.md) |
