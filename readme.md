@@ -21,4 +21,6 @@
 | Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) |
 | Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) |
 | Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-cotidiano.md) |
-| Simulando a Lógica de Uma Blockchain com JavaScript e Estrutura de Dados | [Abrir código](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dataStructures.js) |
+| Código: Simulando a Lógica de Uma Blockchain com JavaScript e Estrutura de Dados | [Abrir código](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dataStructures.js) |
+| Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) |
+| Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) |
