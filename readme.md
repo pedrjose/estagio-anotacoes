@@ -24,3 +24,4 @@
 | Código: Simulando a Lógica de Uma Blockchain com JavaScript e Estrutura de Dados | [Abrir código](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dataStructures.js) |
 | Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) |
 | Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) |
+| Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) |
