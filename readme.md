@@ -1,3 +1,4 @@
+
 [![Linkedin Badge](https://img.shields.io/badge/-pedrojosel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrojosel/)](https://www.linkedin.com/in/pedrojosel/) [![Medium Badge](https://img.shields.io/badge/-@pedrlimadev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pedrlimadev)](https://medium.com/@pedrlimadev)
 [![GitHub followers](https://img.shields.io/github/followers/pedrjose?label=Follow&style=social)](https://github.com/pedrjose/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-pedrlimadev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrlimadev@gmail.com
@@ -25,3 +26,4 @@
 | Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) |
 | Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) |
 | Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) |
+| Blockchains Públicas vs Blockchains Privadas | [Abrir resumo](https://github.com/pedrjose/blockchains-public-private/tree/main) |
