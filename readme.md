@@ -6,7 +6,7 @@
 
 # Resumos do Estágio :page_with_curl:
 
-- Repositório destinado a armazenar os resumos que escrevi sobre os assuntos abordados no meu estágio :ballot_box_with_check:
+- Repositório destinado a armazenar os resumos que escrevi sobre os assuntos abordados no meu estágio sobre Blockchain, Bitcoin e Drex :ballot_box_with_check:
 - Basta escolher o tema que deseja ler na tabela abaixo, e você será direcionado para o respectivo resumo :heavy_check_mark:
 - A maior parte dos resumos está em repositórios no GitHub, mas alguns, como o de *Conventional Commits*, redirecionarão para o meu LinkedIn, onde já havia tratado desse assunto anteriormente e considerei que o resumo ficaria mais dinâmico por lá :large_orange_diamond:
 
