@@ -27,3 +27,10 @@
 | Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) |
 | Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) |
 | Blockchains Públicas vs Blockchains Privadas | [Abrir resumo](https://github.com/pedrjose/blockchains-public-private/tree/main) |
+| TESTE: casos privados e públicos de uso de blockchains | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions.md) |
+| FLUXOGRAMA: redes centralizadas e descentralizadas | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo12.png) |
+| TESTE: redes centralizadas e descentralizadas | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions2.md) |
+| MAPA: internet antes x internet agora | [Abrir mapa](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo11.png) |
+| FLUXOGRAMA: blockchains permissioned x permissionless | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo13.png) |
+| TESTE: blockchains permissioned x permissionless | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questoes3.md) |
+| TESTE: blockchain no mercado financeiro | [Abrir repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions4.md) |
