@@ -18,4 +18,5 @@ Nesta seção do vídeo do YouTube intitulado "Casos de Uso do Mundo Real do Blo
 
 ## Extra
 - [Blockchain Usage: List of 20+ Blockchain Technology Use Cases](https://101blockchains.com/blockchain-usage/)
+- [Why Do We Need Blockchain Technology? A Look At 5 Key Problems](https://101blockchains.com/why-do-we-need-blockchain-technology/)
 - [20+ Uses For Blockchain Technology That You Should Know](https://101blockchains.com/uses-for-blockchain-technology/)
