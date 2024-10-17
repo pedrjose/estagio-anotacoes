@@ -10,6 +10,8 @@ O funcionamento do **SHA-256** também é explicado, usando o exemplo da frase *
 
 Ele explica o conceito de proof-of-work, essencial para a tecnologia blockchain. Ele descreve como os mineradores buscam um hash criptográfico por meio de operações de força bruta. Antonopoulos relaciona os cálculos de hash ao gasto de energia e à dissipação de calor, argumentando que, à medida que a dificuldade de encontrar uma impressão digital específica aumenta, os mineradores consomem mais energia. Antonopoulos estima que o hardware necessário para realizar quadrilhões de hashes provavelmente seja um chip de fabricação de 20 nanômetros com centenas de milhares de motores sha-256 em paralelo. Ele conclui que a única maneira de criar uma impressão digital é realizando o trabalho necessário, tornando o sistema praticamente impossível de ser hackeado.
 
+![alt text](./receita_bitcoin.png)
+
 ## Algoritmos de Consenso
 Em sua palestra sobre algoritmos de consenso, tecnologia blockchain e Bitcoin, ele explica como o algoritmo de consenso do Bitcoin utiliza eletricidade para sustentar sua função de segurança. Os mineradores investem grandes quantidades de esforço e custo para participar desse sistema, pois a recompensa é determinada pelo cumprimento das regras de consenso. A cada 10 minutos, os mineradores precisam construir um bloco com transações que seguem as 30-40 regras estabelecidas por todos. Em seguida, devem encontrar um "nonce" que faça a impressão digital (fingerprint) do cabeçalho do bloco ter uma aparência específica. Se eles encontrarem o nonce e o enviarem para o restante da rede, mas ele não atender às regras de consenso, toda a eletricidade utilizada terá sido desperdiçada. 
 
