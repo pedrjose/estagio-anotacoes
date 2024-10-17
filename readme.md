@@ -34,3 +34,5 @@
 | FLUXOGRAMA: blockchains permissioned x permissionless | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo13.png) |
 | TESTE: blockchains permissioned x permissionless | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questoes3.md) |
 | TESTE: blockchain no mercado financeiro | [Abrir repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions4.md) |
+| Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) |
+| Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) |
