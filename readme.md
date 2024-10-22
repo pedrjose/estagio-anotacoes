@@ -36,3 +36,4 @@
 | TESTE: blockchain no mercado financeiro | [Abrir repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions4.md) |
 | Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) |
 | Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) |
+| Como funciona uma rede P2P? | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/peer-to-peer.png) |
