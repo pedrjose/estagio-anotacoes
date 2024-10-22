@@ -25,6 +25,8 @@ Além disso, uma carteira de hardware possui uma semente, um dado que é possív
 
 ![walllet types](./walllet-types.png)
 
+![features wallets](./features-wallets.png)
+
 ## Exchanges
 Exchanges são serviços que permitem você comprar, vender e negociar *btcs* online de forma "segura". Assim como qualquer outro ativo, o bitcoin pode ser negociado em vários mercados, serviços e moedas diferentes.
 
