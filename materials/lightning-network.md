@@ -9,4 +9,4 @@
 - A Lightning Network ajuda a acelerar as Transações sem afetar a rede, ajuda a reduzir os requisitos de energia para atender aos níveis crescentes de dificuldade de mineração e garante a integridade em Transações Off-chain usando scripts de assinatura múltipla e contratos inteligentes;
 - Possui alguns contratempos, como a possibilidade de fraude de canal fechado e possibilidades de violações em carteiras, Interfaces de Programação de Aplicativos ou canais de pagamento.
 
-![bitcoin lightning network](/bitcoin-lightning-network.png)
+![bitcoin lightning network](./bitcoin-lightning-network.png)
