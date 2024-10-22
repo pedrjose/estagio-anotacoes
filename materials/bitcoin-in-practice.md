@@ -23,6 +23,8 @@ Além disso, uma carteira de hardware possui uma semente, um dado que é possív
 
 - **Carteira Online**: mais arriscada, porém mais mais prática, tendo vários serviços integrados, podendo ser utilizada via browser. Um grande problema é que os dados ficam nas nuvens, o que deixa eles muito vulneráveis.
 
+![walllet types](./walllet-types.png)
+
 ## Exchanges
 Exchanges são serviços que permitem você comprar, vender e negociar *btcs* online de forma "segura". Assim como qualquer outro ativo, o bitcoin pode ser negociado em vários mercados, serviços e moedas diferentes.
 
