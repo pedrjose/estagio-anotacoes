@@ -41,6 +41,8 @@ Esse mecanismo de autenticação permite o uso da blockchain em diversas áreas,
 
 Chaves de autenticação são impossíveis de falsificar, fáceis de verificar e estão atreladas ao documento que foi autenticado.
 
+[Veja mais!](https://101blockchains.com/private-key-vs-public-key/)
+
 ### Blocos
 O conceito de bloco, até aqui, está um pouco abstrato. Isso porque, antes de entender o conteúdo, precisamos compreender como eles estão organizados e como se comunicam. Os blocos são, basicamente, o registro das transações. A cada transação, um novo bloco é adicionado à rede, registrando a transferência de moedas. Essa operação passa por uma validação antes de ser realizada, que é feita em três passos:
 
