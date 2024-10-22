@@ -3,11 +3,14 @@
 ## Introdução
 - RPC é um protocolo de comunicação leve que permite que programas se comuniquem com outros programas em redes diferentes, sem precisar de detalhes sobre o servidor;
 - O RPC executa sub-rotinas no servidor para atender às solicitações de um cliente.
+
 ![remote procedure call](./remote-procedure-call.png)
 
 ## RPC na Blockchain
 - O RPC conecta aplicativos descentralizados (dApps) com redes de blockchain, permitindo que obtenham dados necessários para funcionar corretamente;
 - No modelo cliente-servidor, o dApp atua como o cliente, enquanto o nó RPC serve como o servidor.
+
+![rpc dapps](./rpc-dapps.png)
 
 ## Nó RPC
 - Um nó RPC é um computador que roda o software de um cliente blockchain, capaz de responder a solicitações RPC;
