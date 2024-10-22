@@ -14,29 +14,30 @@
 
 **Espero que esses materiais sejam úteis para você que encontrou esse repositório. Abraço!** :relaxed:
 
-| Assunto | Link |
-| ----------- | ----------- |
-| Scrum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/scrum.md) |
-| Conventional Commits | [Abrir resumo](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) |
-| Introdução à blockchain e ao bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-and-bitcoin-introduce.md) | 
-| Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) |
-| Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) |
-| Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-cotidiano.md) |
-| Código: Simulando a Lógica de Uma Blockchain com JavaScript e Estrutura de Dados | [Abrir código](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dataStructures.js) |
-| Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) |
-| Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) |
-| Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) |
-| Blockchains Públicas vs Blockchains Privadas | [Abrir resumo](https://github.com/pedrjose/blockchains-public-private/tree/main) |
-| TESTE: casos privados e públicos de uso de blockchains | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions.md) |
-| FLUXOGRAMA: redes centralizadas e descentralizadas | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo12.png) |
-| TESTE: redes centralizadas e descentralizadas | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions2.md) |
-| MAPA: internet antes x internet agora | [Abrir mapa](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo11.png) |
-| FLUXOGRAMA: blockchains permissioned x permissionless | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo13.png) |
-| TESTE: blockchains permissioned x permissionless | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questoes3.md) |
-| TESTE: blockchain no mercado financeiro | [Abrir repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions4.md) |
-| Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) |
-| Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) |
-| Como funciona uma rede P2P? | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/peer-to-peer.png) |
-| Bitcoin Lightning Network | [Abrir resumo](./https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/lightning-network.md) |
-| RPC (Remote Procedure Call) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/remote-procedure-call.md) |
-| Merkle Tree | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/merkle-trees.md) |
+| Assunto | Link | Trilha |
+| ----------- | ----------- | ----------- |
+| Scrum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/scrum.md) | Basics for Teamwork and Agile Development |
+| Conventional Commits | [Abrir resumo](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) | Basics for Teamwork and Agile Development |
+| Introdução à blockchain e ao bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-and-bitcoin-introduce.md) | Blockchain: Safe Shallows |
+| Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) | Blockchain: Safe Shallows |
+| Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) | Blockchain: Safe Shallows |
+| Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-cotidiano.md) | Blockchain: Safe Shallows |
+| Código: Simulando a Lógica de Uma Blockchain com JavaScript e Estrutura de Dados | [Abrir código](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dataStructures.js) | Blockchain: Safe Shallows |
+| Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) | Blockchain: Safe Shallows |
+| Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) | Blockchain: Safe Shallows |
+| Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) | Blockchain: Safe Shallows |
+| Blockchains Públicas vs Blockchains Privadas | [Abrir resumo](https://github.com/pedrjose/blockchains-public-private/tree/main) | Blockchain: Grassy Plateau |
+| TESTE: casos privados e públicos de uso de blockchains | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions.md) | Blockchain: Grassy Plateau |
+| FLUXOGRAMA: redes centralizadas e descentralizadas | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo12.png) | Blockchain: Grassy Plateau |
+| TESTE: redes centralizadas e descentralizadas | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions2.md) | Blockchain: Grassy Plateau |
+| MAPA: internet antes x internet agora | [Abrir mapa](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo11.png) | Blockchain: Grassy Plateau |
+| FLUXOGRAMA: blockchains permissioned x permissionless | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo13.png) | Blockchain: Grassy Plateau |
+| TESTE: blockchains permissioned x permissionless | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questoes3.md) | Blockchain: Grassy Plateau |
+| TESTE: blockchain no mercado financeiro | [Abrir repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions4.md) | Blockchain: Grassy Plateau |
+| Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) | Blockchain: Grassy Plateau |
+| Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) | Blockchain: Grassy Plateau |
+| Como funciona uma rede P2P? | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/peer-to-peer.png) | Blockchain: Grassy Plateau |
+| Bitcoin Lightning Network | [Abrir resumo](./https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/lightning-network.md) | Blockchain: Grassy Plateau |
+| RPC (Remote Procedure Call) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/remote-procedure-call.md) | Blockchain: Grassy Plateau |
+| Merkle Tree | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/merkle-trees.md) | Blockchain: Grassy Plateau |
+| DEXs (Exchange Descentralizada) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/tree/main/materials) | Blockchain: Grassy Plateau |
