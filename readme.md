@@ -37,3 +37,5 @@
 | Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) |
 | Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) |
 | Como funciona uma rede P2P? | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/peer-to-peer.png) |
+| Bitcoin Lightning Network | [Abrir resumo](./https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/lightning-network.md) |
+| RPC (Remote Procedure Call) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/remote-procedure-call.md) |
