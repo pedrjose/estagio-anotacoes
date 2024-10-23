@@ -37,7 +37,7 @@
 | Algoritmos de consenso | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/algoritmos-consenso.md) | Blockchain: Grassy Plateau |
 | Uso do Blockchain no Cotidiano | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockinchain-daily.md) | Blockchain: Grassy Plateau |
 | Como funciona uma rede P2P? | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/peer-to-peer.png) | Blockchain: Grassy Plateau |
-| Bitcoin Lightning Network | [Abrir resumo](./https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/lightning-network.md) | Blockchain: Grassy Plateau |
+| Bitcoin Lightning Network | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/lightning-network.md) | Blockchain: Grassy Plateau |
 | RPC (Remote Procedure Call) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/remote-procedure-call.md) | Blockchain: Grassy Plateau |
 | Merkle Tree | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/merkle-trees.md) | Blockchain: Grassy Plateau |
 | DEXs (Exchange Descentralizada) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dexs.md) | Blockchain: Grassy Plateau |
