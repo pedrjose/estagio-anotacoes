@@ -41,4 +41,4 @@
 | RPC (Remote Procedure Call) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/remote-procedure-call.md) | Blockchain: Grassy Plateau |
 | Merkle Tree | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/merkle-trees.md) | Blockchain: Grassy Plateau |
 | DEXs (Exchange Descentralizada) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dexs.md) | Blockchain: Grassy Plateau |
-| TESTE: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/tree/main/materials) | Blockchain: Grassy Plateau |
+| TESTE: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/teste1-grassy-plateau.md) | Blockchain: Grassy Plateau |
