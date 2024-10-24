@@ -1,6 +1,6 @@
 # TESTE: Grassy Plateau
 
-## 1. Redes P2P
+## 1 - Redes P2P
 
 **1. Qual das seguintes opções melhor descreve uma rede P2P (Peer-to-Peer)?**
 
@@ -69,7 +69,7 @@ d) Redes sociais, como o Facebook.
 4. C
 5. C
 
-## 2. Bitcoin Lightning Network
+## 2 - Bitcoin Lightning Network
 
 **1. Qual é o principal objetivo da Lightning Network no ecossistema do Bitcoin?**
 
@@ -138,7 +138,7 @@ d) A impossibilidade de registrar transações no Blockchain principal.
 4. B
 5. B
 
-## 3. RPC (Remote Procedure Call)
+## 3 - RPC (Remote Procedure Call)
 
 **1. Qual é o principal objetivo do protocolo RPC?**
 
@@ -272,7 +272,7 @@ d) Criando novas criptomoedas que aceleram a comunicação em redes blockchain.
 9. b
 10. b
 
-## 4. Merkle Tree
+## 4 - Merkle Tree
 
 **1. Qual é a função principal de uma árvore de Merkle?**
 
@@ -406,7 +406,7 @@ d) Em redes sociais para armazenar dados de usuários.
 9. b
 10. b
 
-## 5. DEXs (Exchange Descentralizada)
+## 5 - DEXs (Exchange Descentralizada)
 
 **1. O que diferencia as DEXs das exchanges centralizadas?**
 
@@ -539,3 +539,137 @@ d) Necessidade de conhecimento técnico para operar com segurança.
 8. b
 9. b
 10. d
+
+## 6 - Decentralized Storage	
+
+**1. Qual é a principal característica do armazenamento descentralizado?**
+
+a) Dados armazenados em um único servidor central
+
+b) Dados distribuídos por uma rede de nós
+
+c) Dados armazenados em um único dispositivo físico
+
+d) Armazenamento exclusivamente em dispositivos locais
+
+---
+
+**2. O que acontece com os dados em um sistema de armazenamento descentralizado como o StorX?** 
+
+a) São copiados e mantidos em um único servidor
+
+b) São fragmentados, criptografados e distribuídos entre vários nós
+
+c) Permanecem armazenados apenas no servidor do usuário
+
+d) São enviados para um servidor central de backup
+
+---
+
+**3. O IPFS (InterPlanetary File System) é um exemplo de:** 
+
+a) Sistema de armazenamento centralizado
+
+b) Rede de armazenamento local
+
+c) Sistema de armazenamento descentralizado
+
+d) Armazenamento em dispositivos físicos móveis
+
+---
+
+**4. Um dos principais benefícios do armazenamento descentralizado é:** 
+
+a) Dependência de provedores centralizados
+
+b) Alta vulnerabilidade a ataques cibernéticos
+
+c) Maior privacidade e controle dos dados
+
+d) Necessidade de um único ponto de acesso
+
+---
+
+**5. O que garante a disponibilidade contínua dos dados em uma rede descentralizada?**
+
+a) A presença de múltiplas cópias dos fragmentos de dados em vários nós
+
+b) A centralização dos dados em servidores principais
+
+c) A eliminação de backups periódicos
+
+d) A distribuição de dados em uma única localização
+
+---
+
+**6. Qual padrão de criptografia é usado no StorX para proteger os dados?** 
+
+a) AES-128
+
+b) RSA-1024
+
+c) AES-256
+
+d) SHA-256
+
+---
+
+**7. O que diferencia o armazenamento descentralizado de sistemas convencionais de nuvem?**
+
+a) Centralização e maior controle por parte dos provedores
+
+b) Descentralização e eliminação de um único ponto de falha
+
+c) Acessibilidade somente através de dispositivos locais
+
+d) Backup manual necessário pelo usuário
+
+---
+
+**8. Qual é o papel das "chaves privadas" em sistemas de armazenamento descentralizado?** 
+
+a) Controlar quem pode acessar e gerenciar os dados
+
+b) Criptografar os dados após a fragmentação
+
+c) Distribuir automaticamente os dados em vários nós
+
+d) Controlar a centralização dos dados em servidores únicos
+
+---
+
+**9. Ao escolher uma solução de armazenamento descentralizado, qual dos seguintes é um fator importante?** 
+
+a) Capacidade de centralizar dados em um servidor principal
+
+b) Estrutura de incentivos e retenção de dados
+
+c) Velocidade de upload limitada a um único servidor
+
+d) Dependência de um ponto de acesso
+
+---
+
+**10. Uma das desvantagens do armazenamento centralizado é:**
+
+a) Maior segurança contra ataques cibernéticos
+
+b) Controle centralizado de dados e vulnerabilidade a falhas de rede
+
+c) Facilidade de expansão sem limites
+
+d) Acesso exclusivo pelo proprietário dos dados
+
+---
+
+### Gabarito
+1. b) 
+2. b) 
+3. c) 
+4. c) 
+5. a) 
+6. c) 
+7. b) 
+8. a) 
+9. b) 
+10. b)
