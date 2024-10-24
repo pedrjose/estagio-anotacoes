@@ -43,4 +43,5 @@
 | DEXs (Exchange Descentralizada) | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/dexs.md) | Blockchain: Grassy Plateau |
 | Decentralized Storage | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/decentralized-storage.md) | Blockchain: Grassy Plateau |
 | Decentralized Identity | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/des-in.md) | Blockchain: Grassy Plateau |
-| TESTE: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/teste1-grassy-plateau.md) | Blockchain: Grassy Plateau |
+| Satoshi como menor unidade de Bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/satoshi.md) | Blockchain: Grassy Plateau |
+| SIMULADO: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/teste1-grassy-plateau.md) | Blockchain: Grassy Plateau |
