@@ -822,7 +822,7 @@ d) Uma ferramenta para minerar Bitcoin
 
 ---
 
-**2. Quantos Satoshis equivalem a 1 Bitcoin?*
+**2. Quantos Satoshis equivalem a 1 Bitcoin?**
 
 a) 1.000
 
