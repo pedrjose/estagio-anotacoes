@@ -942,7 +942,7 @@ d) Tron
 9. c
 10. b
 
-## Cryptocurrency Mining
+## 9 - Cryptocurrency Mining
 
 **1. Qual é a principal função da mineração de criptomoedas?**
 
@@ -1075,3 +1075,267 @@ D) Elas determinam o valor das criptomoedas diretamente.
 8. B
 9. C
 10. B
+
+## 10 - Criptografia Blockchain	
+
+**1. O que é o blockchain?**
+
+A) Uma base de dados centralizada
+
+B) Uma base de dados distribuída
+
+C) Um tipo de criptomoeda
+
+D) Um algoritmo de segurança
+
+---
+
+**2. Quais são os principais tipos de blockchain?**
+
+A) Público, privado e híbrido
+
+B) Público, privado e de aliança
+
+C) Público, descentralizado e centralizado
+
+D) Privado, de aliança e aberto
+
+---
+
+**3. Qual é o papel da criptografia no blockchain?**
+
+A) Reduzir o tempo de processamento
+
+B) Garantir segurança e privacidade dos dados
+
+C) Eliminar a necessidade de mineradores
+
+D) Criar novas criptomoedas
+
+---
+
+**4. O que caracteriza uma assinatura digital?**
+
+A) É um número de identificação
+
+B) É uma criptografia simétrica
+
+C) Utiliza criptografia de chave pública
+
+D) É um método de armazenamento de dados
+
+---
+
+**5. Qual é a função do hashing criptográfico no blockchain?**
+
+A) Gerar novos blocos
+
+B) Garantir a imutabilidade e verificar transações
+
+C) Proteger as chaves privadas
+
+D) Realizar transações financeiras
+
+---
+
+**6. Qual algoritmo é comumente usado para hashing em blockchain?**
+
+A) SHA-1
+
+B) SHA-256
+
+C) MD5
+
+D) AES
+
+---
+
+**7. O que significa "proof of work"?**
+
+A) Um tipo de criptomoeda
+
+B) Um método de validação de transações
+
+C) Um protocolo de comunicação
+
+D) Um algoritmo de criptografia
+
+---
+
+**8. Como os mineradores validam transações?**
+
+A) Comparando dados com uma autoridade central
+
+B) Verificando assinaturas digitais e hashes
+
+C) Através de transações em dinheiro
+
+D) Usando apenas a chave pública
+
+---
+
+**9. O que é um nonce?**
+
+A) Um número que pode ser usado várias vezes
+
+B) Um número aleatório usado apenas uma vez
+
+C) Um tipo de algoritmo de hashing
+
+D) Uma chave pública
+
+---
+
+**10. Qual é a principal dificuldade em encontrar um nonce?**
+
+A) Acesso à internet
+
+B) Complexidade do algoritmo
+
+C) O número aleatório de 32 bits
+
+D) O número de mineradores
+
+---
+
+**11. O que acontece se um hacker tentar modificar um bloco na blockchain?**
+
+A) O bloco é perdido
+
+B) O bloco é imediatamente excluído
+
+C) O hacker precisaria recalcular todos os hashes subsequentes
+
+D) O bloco se torna inválido instantaneamente
+
+---
+
+**12. Qual técnica é usada para garantir a autenticidade e confidencialidade em comunicações?**
+
+A) Criptografia simétrica
+
+B) Criptografia de chave pública
+
+C) Autenticação biométrica
+
+D) Armazenamento em nuvem
+
+---
+
+**13. Qual é a função das funções de hash no blockchain?**
+
+A) Armazenar transações
+
+B) Gerar números aleatórios
+
+C) Converter dados em uma sequência alfanumérica
+
+D) Criar novos usuários
+
+---
+
+**14. O que caracteriza uma boa função de hash?**
+
+A) Ser lenta e complexa 
+
+B) Produzir uma distribuição uniforme e minimizar colisões 
+
+C) Utilizar a mesma chave para todas as entradas 
+
+D) Ser facilmente reversível
+
+---
+
+**15. O que é uma chave pública?**
+
+A) Uma chave que deve ser mantida em segredo
+
+B) Um endereço público para receber criptomoedas
+
+C) Uma chave que é gerada a partir da chave privada
+
+D) Um tipo de assinatura digital
+
+---
+
+**16. O que pode resultar da perda da chave privada?**
+
+A) Aumento da segurança
+
+B) Acesso irrestrito aos dados
+
+C) Perda de acesso aos dados criptografados
+
+D) Alteração das transações anteriores
+
+---
+
+**17. Como o blockchain impede gastos duplos?**
+
+A) Usando apenas chaves privadas
+
+B) Através do uso de nonces e hashing
+
+C) Com a ajuda de bancos centrais
+
+D) Limitando o número de transações
+
+---
+
+**18. Qual é um dos benefícios da criptografia no blockchain?**
+
+A) Aumento do número de usuários
+
+B) Eliminação de custos operacionais
+
+C) Prova de posse de dados sem divulgá-los
+
+D) Criação de novas moedas
+
+---
+
+**19. Qual é uma desvantagem da criptografia de chave pública?**
+
+A) Ela é muito rápida
+
+B) Pode ser mais lenta ao lidar com grandes volumes de dados
+
+C) É fácil de entender
+
+D) Não protege a privacidade
+
+---
+
+**20. Qual é a principal função de uma assinatura digital no contexto de blockchain?**
+
+A) Armazenar dados
+
+B) Verificar a autenticidade de transações
+
+C) Criar novas criptomoedas
+
+D) Proteger a chave pública
+
+---
+
+### Gabarito
+1. B
+2. B
+3. B
+4. C
+5. B
+6. B
+7. B
+8. B
+9. B
+10. C
+11. C
+12. B
+13. C
+14. B
+15. B
+16. C
+17. B
+18. C
+19. B
+20. B
