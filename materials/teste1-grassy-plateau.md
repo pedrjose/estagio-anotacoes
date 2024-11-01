@@ -930,6 +930,16 @@ d) Tron
 
 ---
 
+**11. Suponha que existe uma padaria que aceita BTC como forma de pagamento. Você, como cliente, quer comprar R$ 5,00 de pão e utilizar BTC como forma de pagamento. Quanto, em satoshis, ficaria esse valor, levando em consideração o valor de mercado do BTC em 01/11/2024?**
+
+a) 0.0205 satoshis
+
+b) 2.774 satoshis
+
+c) 1.831 satoshis
+
+d) 1.234 satoshis
+
 ### Gabarito
 1. b
 2. d
@@ -941,6 +951,7 @@ d) Tron
 8. a
 9. c
 10. b
+11. d
 
 ## 9 - Cryptocurrency Mining
 
