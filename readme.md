@@ -46,3 +46,5 @@
 | Satoshi como menor unidade de Bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/satoshi.md) | Blockchain: Grassy Plateau |
 | Criptografia Blockchain | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/criptografia-blockchain.md) | Blockchain: Grassy Plateau |
 | SIMULADO: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/teste1-grassy-plateau.md) | Blockchain: Grassy Plateau |
+| Equipe ChainPass | [Abrir repositório](https://github.com/pedrjose/equipe-chainpass) | Blockchain: Grassy Plateau |
+
