@@ -18,6 +18,7 @@
 | ----------- | ----------- | ----------- |
 | Scrum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/scrum.md) | Basics for Teamwork and Agile Development |
 | Conventional Commits | [Abrir resumo](https://www.linkedin.com/posts/activity-7080543647502336000-4Axo?utm_source=share&utm_medium=member_desktop) | Basics for Teamwork and Agile Development |
+| --- | --- | --- |
 | Introdução à blockchain e ao bitcoin | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/blockchain-and-bitcoin-introduce.md) | Blockchain: Safe Shallows |
 | Bitcoin na Prática | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/bitcoin-in-practice.md) | Blockchain: Safe Shallows |
 | Ethereum | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/ethereum.md) | Blockchain: Safe Shallows |
@@ -26,6 +27,7 @@
 | Artigo: Explicando Blockchain com JavaScript e Estrutura de Dados| [Abrir artigo](https://medium.com/@pedrlimadev/simulando-uma-blockchain-com-javascript-e-estrutura-de-dados-ebcfb8eb0516) | Blockchain: Safe Shallows |
 | Questões Sobre Blockchain, Bitcoin e Ethereum | [Abrir simulado](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/simulado.md) | Blockchain: Safe Shallows |
 | Projeto n°1: Blockchain com Linked List | [Abrir projeto](https://github.com/pedrjose/blockchain-linkedList) | Blockchain: Safe Shallows |
+| --- | --- | --- |
 | Blockchains Públicas vs Blockchains Privadas | [Abrir resumo](https://github.com/pedrjose/blockchains-public-private/tree/main) | Blockchain: Grassy Plateau |
 | TESTE: casos privados e públicos de uso de blockchains | [Acessar repositório](https://github.com/pedrjose/blockchains-public-private/blob/main/questions.md) | Blockchain: Grassy Plateau |
 | FLUXOGRAMA: redes centralizadas e descentralizadas | [Abrir fluxograma](https://github.com/pedrjose/blockchains-public-private/blob/main/Sem%20t%C3%ADtulo12.png) | Blockchain: Grassy Plateau |
@@ -47,4 +49,6 @@
 | Criptografia Blockchain | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/criptografia-blockchain.md) | Blockchain: Grassy Plateau |
 | SIMULADO: Grassy Plateau | [Abrir teste](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/teste1-grassy-plateau.md) | Blockchain: Grassy Plateau |
 | Equipe ChainPass | [Abrir repositório](https://github.com/pedrjose/equipe-chainpass) | Blockchain: Grassy Plateau |
+| --- | --- | --- |
+| Amazon Q | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/amazon-q.md)| Blockchain: Grand Reef |
 
