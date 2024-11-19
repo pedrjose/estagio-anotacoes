@@ -51,4 +51,5 @@
 | Equipe ChainPass | [Abrir repositório](https://github.com/pedrjose/equipe-chainpass) | Blockchain: Grassy Plateau |
 | --- | --- | --- |
 | Amazon Q | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/amazon-q.md)| Blockchain: Grand Reef |
+| Smart Contract | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/smart-contracts.md) | Blockchain: Grand Reef |
 
