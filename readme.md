@@ -52,4 +52,5 @@
 | --- | --- | --- |
 | Amazon Q | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/amazon-q.md)| Blockchain: Grand Reef |
 | Smart Contract | [Abrir resumo](https://github.com/pedrjose/estagio-anotacoes/blob/main/materials/smart-contracts.md) | Blockchain: Grand Reef |
+| Curva Elíptica: a Matemática do Bitcoin e Sistemas Criptográficos | [Abrir artigo](https://medium.com/@pedrlimadev/curva-el%C3%ADptica-a-matem%C3%A1tica-do-bitcoin-e-sistemas-criptogr%C3%A1ficos-a44da662b04d) | Blockchain: Grand Reef | 
 
